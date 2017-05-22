@@ -12,6 +12,24 @@
 		FE9106801ECBE3F5008CB4A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE91067E1ECBE3F5008CB4A4 /* Main.storyboard */; };
 		FE9106821ECBE3F5008CB4A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE9106811ECBE3F5008CB4A4 /* Assets.xcassets */; };
 		FE9106851ECBE3F5008CB4A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE9106831ECBE3F5008CB4A4 /* LaunchScreen.storyboard */; };
+		FE9A7C2D1ED26EC100D51849 /* 01-Afghan Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1A1ED26EC000D51849 /* 01-Afghan Track copy.mp3 */; };
+		FE9A7C2E1ED26EC100D51849 /* 02-Classical Acoustic Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1B1ED26EC000D51849 /* 02-Classical Acoustic Track.mp3 */; };
+		FE9A7C2F1ED26EC100D51849 /* 03-Sand Radab Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1C1ED26EC000D51849 /* 03-Sand Radab Track copy.mp3 */; };
+		FE9A7C301ED26EC100D51849 /* 04-Afghan Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1D1ED26EC000D51849 /* 04-Afghan Track.mp3 */; };
+		FE9A7C311ED26EC100D51849 /* 05-Flute.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1E1ED26EC000D51849 /* 05-Flute.mp3 */; };
+		FE9A7C321ED26EC100D51849 /* 06-String Dream Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C1F1ED26EC000D51849 /* 06-String Dream Track copy.mp3 */; };
+		FE9A7C331ED26EC100D51849 /* 07-Sand Radab.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C201ED26EC000D51849 /* 07-Sand Radab.mp3 */; };
+		FE9A7C341ED26EC100D51849 /* 08-Classical Acoustic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C211ED26EC000D51849 /* 08-Classical Acoustic.mp3 */; };
+		FE9A7C351ED26EC100D51849 /* 09-AfghanTrack - 9:10:16, 1.54 AM.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C221ED26EC000D51849 /* 09-AfghanTrack - 9:10:16, 1.54 AM.mp3 */; };
+		FE9A7C361ED26EC100D51849 /* 10-Aftershock Synth Lead Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C231ED26EC000D51849 /* 10-Aftershock Synth Lead Track copy.mp3 */; };
+		FE9A7C371ED26EC100D51849 /* 11-Classical Acoustic Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C241ED26EC000D51849 /* 11-Classical Acoustic Track copy.mp3 */; };
+		FE9A7C381ED26EC100D51849 /* 12-Flute Track copy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C251ED26EC000D51849 /* 12-Flute Track copy.mp3 */; };
+		FE9A7C391ED26EC100D51849 /* 13-Sand Radab Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C261ED26EC000D51849 /* 13-Sand Radab Track.mp3 */; };
+		FE9A7C3A1ED26EC100D51849 /* 14-String Dream Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C271ED26EC000D51849 /* 14-String Dream Track.mp3 */; };
+		FE9A7C3B1ED26EC100D51849 /* 15-Aftershock Synth Lead Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C281ED26EC000D51849 /* 15-Aftershock Synth Lead Track.mp3 */; };
+		FE9A7C3C1ED26EC100D51849 /* 16-Flute Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C291ED26EC000D51849 /* 16-Flute Track.mp3 */; };
+		FE9A7C3D1ED26EC100D51849 /* 17-Aftershock Synth Lead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C2A1ED26EC000D51849 /* 17-Aftershock Synth Lead.mp3 */; };
+		FE9A7C3E1ED26EC100D51849 /* 18-String Dream.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE9A7C2B1ED26EC000D51849 /* 18-String Dream.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,24 @@
 		FE9106811ECBE3F5008CB4A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE9106841ECBE3F5008CB4A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE9106861ECBE3F5008CB4A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE9A7C1A1ED26EC000D51849 /* 01-Afghan Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01-Afghan Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C1B1ED26EC000D51849 /* 02-Classical Acoustic Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "02-Classical Acoustic Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C1C1ED26EC000D51849 /* 03-Sand Radab Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "03-Sand Radab Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C1D1ED26EC000D51849 /* 04-Afghan Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "04-Afghan Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C1E1ED26EC000D51849 /* 05-Flute.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "05-Flute.mp3"; sourceTree = "<group>"; };
+		FE9A7C1F1ED26EC000D51849 /* 06-String Dream Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "06-String Dream Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C201ED26EC000D51849 /* 07-Sand Radab.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "07-Sand Radab.mp3"; sourceTree = "<group>"; };
+		FE9A7C211ED26EC000D51849 /* 08-Classical Acoustic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "08-Classical Acoustic.mp3"; sourceTree = "<group>"; };
+		FE9A7C221ED26EC000D51849 /* 09-AfghanTrack - 9:10:16, 1.54 AM.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "09-AfghanTrack - 9:10:16, 1.54 AM.mp3"; sourceTree = "<group>"; };
+		FE9A7C231ED26EC000D51849 /* 10-Aftershock Synth Lead Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "10-Aftershock Synth Lead Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C241ED26EC000D51849 /* 11-Classical Acoustic Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "11-Classical Acoustic Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C251ED26EC000D51849 /* 12-Flute Track copy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "12-Flute Track copy.mp3"; sourceTree = "<group>"; };
+		FE9A7C261ED26EC000D51849 /* 13-Sand Radab Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "13-Sand Radab Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C271ED26EC000D51849 /* 14-String Dream Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "14-String Dream Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C281ED26EC000D51849 /* 15-Aftershock Synth Lead Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15-Aftershock Synth Lead Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C291ED26EC000D51849 /* 16-Flute Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "16-Flute Track.mp3"; sourceTree = "<group>"; };
+		FE9A7C2A1ED26EC000D51849 /* 17-Aftershock Synth Lead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "17-Aftershock Synth Lead.mp3"; sourceTree = "<group>"; };
+		FE9A7C2B1ED26EC000D51849 /* 18-String Dream.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "18-String Dream.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +90,7 @@
 		FE9106791ECBE3F5008CB4A4 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				FE9A7C2C1ED26EC000D51849 /* AudioFiles */,
 				FE91067A1ECBE3F5008CB4A4 /* AppDelegate.swift */,
 				FE91067C1ECBE3F5008CB4A4 /* ViewController.swift */,
 				FE91067E1ECBE3F5008CB4A4 /* Main.storyboard */,
@@ -62,6 +99,32 @@
 				FE9106861ECBE3F5008CB4A4 /* Info.plist */,
 			);
 			path = MusicPlayer;
+			sourceTree = "<group>";
+		};
+		FE9A7C2C1ED26EC000D51849 /* AudioFiles */ = {
+			isa = PBXGroup;
+			children = (
+				FE9A7C1A1ED26EC000D51849 /* 01-Afghan Track copy.mp3 */,
+				FE9A7C1B1ED26EC000D51849 /* 02-Classical Acoustic Track.mp3 */,
+				FE9A7C1C1ED26EC000D51849 /* 03-Sand Radab Track copy.mp3 */,
+				FE9A7C1D1ED26EC000D51849 /* 04-Afghan Track.mp3 */,
+				FE9A7C1E1ED26EC000D51849 /* 05-Flute.mp3 */,
+				FE9A7C1F1ED26EC000D51849 /* 06-String Dream Track copy.mp3 */,
+				FE9A7C201ED26EC000D51849 /* 07-Sand Radab.mp3 */,
+				FE9A7C211ED26EC000D51849 /* 08-Classical Acoustic.mp3 */,
+				FE9A7C221ED26EC000D51849 /* 09-AfghanTrack - 9:10:16, 1.54 AM.mp3 */,
+				FE9A7C231ED26EC000D51849 /* 10-Aftershock Synth Lead Track copy.mp3 */,
+				FE9A7C241ED26EC000D51849 /* 11-Classical Acoustic Track copy.mp3 */,
+				FE9A7C251ED26EC000D51849 /* 12-Flute Track copy.mp3 */,
+				FE9A7C261ED26EC000D51849 /* 13-Sand Radab Track.mp3 */,
+				FE9A7C271ED26EC000D51849 /* 14-String Dream Track.mp3 */,
+				FE9A7C281ED26EC000D51849 /* 15-Aftershock Synth Lead Track.mp3 */,
+				FE9A7C291ED26EC000D51849 /* 16-Flute Track.mp3 */,
+				FE9A7C2A1ED26EC000D51849 /* 17-Aftershock Synth Lead.mp3 */,
+				FE9A7C2B1ED26EC000D51849 /* 18-String Dream.mp3 */,
+			);
+			name = AudioFiles;
+			path = ../../../../../Desktop/MusicPlayer/MusicPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +187,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE9A7C321ED26EC100D51849 /* 06-String Dream Track copy.mp3 in Resources */,
+				FE9A7C361ED26EC100D51849 /* 10-Aftershock Synth Lead Track copy.mp3 in Resources */,
+				FE9A7C2F1ED26EC100D51849 /* 03-Sand Radab Track copy.mp3 in Resources */,
+				FE9A7C301ED26EC100D51849 /* 04-Afghan Track.mp3 in Resources */,
+				FE9A7C331ED26EC100D51849 /* 07-Sand Radab.mp3 in Resources */,
+				FE9A7C3D1ED26EC100D51849 /* 17-Aftershock Synth Lead.mp3 in Resources */,
+				FE9A7C381ED26EC100D51849 /* 12-Flute Track copy.mp3 in Resources */,
+				FE9A7C341ED26EC100D51849 /* 08-Classical Acoustic.mp3 in Resources */,
 				FE9106851ECBE3F5008CB4A4 /* LaunchScreen.storyboard in Resources */,
+				FE9A7C3C1ED26EC100D51849 /* 16-Flute Track.mp3 in Resources */,
+				FE9A7C2D1ED26EC100D51849 /* 01-Afghan Track copy.mp3 in Resources */,
+				FE9A7C351ED26EC100D51849 /* 09-AfghanTrack - 9:10:16, 1.54 AM.mp3 in Resources */,
+				FE9A7C3B1ED26EC100D51849 /* 15-Aftershock Synth Lead Track.mp3 in Resources */,
+				FE9A7C371ED26EC100D51849 /* 11-Classical Acoustic Track copy.mp3 in Resources */,
+				FE9A7C3A1ED26EC100D51849 /* 14-String Dream Track.mp3 in Resources */,
+				FE9A7C391ED26EC100D51849 /* 13-Sand Radab Track.mp3 in Resources */,
+				FE9A7C3E1ED26EC100D51849 /* 18-String Dream.mp3 in Resources */,
+				FE9A7C311ED26EC100D51849 /* 05-Flute.mp3 in Resources */,
 				FE9106821ECBE3F5008CB4A4 /* Assets.xcassets in Resources */,
+				FE9A7C2E1ED26EC100D51849 /* 02-Classical Acoustic Track.mp3 in Resources */,
 				FE9106801ECBE3F5008CB4A4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +383,7 @@
 				FE91068B1ECBE3F5008CB4A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
